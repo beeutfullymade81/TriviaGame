@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/coffeetrivia.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+}
+
+#frontendgame {
+    height: auto;
+	padding-bottom: 50px;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #cc6300;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-top: 50%;
+	margin-bottom: 50%;
+
+
+}
+
+
+#newQuestion {
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+#availAnswers {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#startgame {
+    height: 60px;
+    font-size: 25px;
+    border-color: white;
+    border-width: 1px;
+    padding-top:    10px;
+    border-radius:  2px;
+}
